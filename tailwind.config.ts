@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Bangladesh Navy theme colors
+				navy: {
+					primary: 'hsl(var(--navy-primary))',
+					secondary: 'hsl(var(--navy-secondary))',
+					accent: 'hsl(var(--navy-accent))',
+					light: 'hsl(var(--navy-light))'
+				},
+				news: {
+					background: 'hsl(var(--news-background))',
+					foreground: 'hsl(var(--news-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
